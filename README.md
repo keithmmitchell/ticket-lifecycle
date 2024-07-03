@@ -134,6 +134,20 @@ Post a reply "Coordinating with Sys Admin team to bring mobile banking back onli
 
 ![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/3109bea2-888f-4d45-9847-b8ba94764df5)
 
+We can now see the ticket has been updated in the list of tickets.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/742defb0-ff24-4543-9540-022f75248eb7)
+
+We can now go back into the ticket and enter "Jerry from Systems Engineering found and corrected a failed load balancer. Mobile banking should be back up."  Change the status to Resolved and click Post Reply.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/6a0e0394-1a95-42f6-af09-f70c0267999e)
+
+
+
 
 
 
