@@ -146,6 +146,45 @@ We can now go back into the ticket and enter "Jerry from Systems Engineering fou
 
 ![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/6a0e0394-1a95-42f6-af09-f70c0267999e)
 
+We can now see the ticket has disappeared.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/7a33852e-9274-42ab-be99-a85bab0e187b)
+
+Clicking on closed lets us see it there.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/20db65f8-39b8-48c0-8c7d-6c38b04122e3)
+
+Select the Entire Accounts Dept. Adobe Reader Not Working ticket.  Change Priority to High.  
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/0fa14ead-4c36-41cc-9dd1-06d0262be665)
+
+Update the SLA Plan to SEV-B.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/b097008d-22b8-4bfb-abbb-5cea9c77a22d)
+
+Assign the ticket to John Doe.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/77d24ea2-4652-401b-86fc-8c977c174956)
+
+Enter a reply "Re-assigned to SEV-B, reached out to John for a warm hand." and click Post Reply.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/d49de5da-4187-48e8-aafc-f2508d9ab794)
+
+
+
+
 
 
 
