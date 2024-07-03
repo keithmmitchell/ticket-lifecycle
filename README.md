@@ -182,6 +182,52 @@ Enter a reply "Re-assigned to SEV-B, reached out to John for a warm hand." and c
 
 ![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/d49de5da-4187-48e8-aafc-f2508d9ab794)
 
+We can now see the changes made in the list of tickets.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/e77649f4-6102-4303-95b1-8479e2fd46d7)
+
+Click on When Are We Getting A New Hardware Refresh ticket.
+
+<br />
+
+Change the Priority to Low and click Update.
+
+<br >
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/022b7310-6fe5-4b85-912f-32c87bc78243)
+
+Assign the ticket to Jane.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/86173c72-a72d-4ae5-81fa-c4c28d6c3488)
+
+Change the SLA to SEV-C.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/d3d56f01-3e04-4180-a4e7-5e5925ae980f)
+
+Post hte reply "Hardware refresh is slated for Q1.  If you like, you and your dept can start testing the new units today. Just send me an email." then mark the ticket as resolved.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/145a4999-00f2-4f17-840e-60e067dc68cc)
+
+We can now see the ticket is not in the list of open tickets.
+
+<br />
+
+There's one ticket left which is assigned to John so to resolve it we need to sign out as Jane and sign back in as John.
+
+<br />
+
+
+
+
+
 
 
 
