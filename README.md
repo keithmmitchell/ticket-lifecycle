@@ -50,4 +50,11 @@ Then click Create Ticket
 
 ![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/726d4474-4c78-43d2-9f3c-f6a68ee90b94)
 
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/a9207ad1-a284-4ef4-ae90-671a8d0353d7)
+
+
+
+
 
