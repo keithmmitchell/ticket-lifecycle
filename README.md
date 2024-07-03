@@ -224,11 +224,25 @@ There's one ticket left which is assigned to John so to resolve it we need to si
 
 <br />
 
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/59f2579c-5d18-4347-8c17-5adac8adb941)
 
+Post a note "Rolled back version of Adobe Reader to previous version allowing them to work.  In the meantime, I'll research why the new version doesn't work on the Accounts departments hardware."
 
+<br />
 
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/f6019b06-1fe6-4c42-8201-62700ddf1f1f)
 
+Go back into the ticket and post a reply "Figured out the problem, reupgraded everyone and Adobe Reader should now be working." and resolve it.  
 
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/ca437be7-6486-42e6-9e01-a5031463e68a)
+
+We can now see all tickets have been resolved.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/36d6811c-858c-4739-ada1-896b5eeee588)
 
 
 
