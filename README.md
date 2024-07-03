@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 In this lab we are going to create some tickets and resolve them.
 
-In the Edge browser go to localhost/osticket/ and click Open New Ticket.
+In the Edge browser go to localhost/osticket/ and click Open A New Ticket.
 
 <br />
 
@@ -39,10 +39,10 @@ In the Edge browser go to localhost/osticket/ and click Open New Ticket.
 
 Enter the following:
 
-Email Address: karen@osticket.com 
-Name: Karen Karen
-Topic: Business Critical Outage
-Issue Summary: Entire Mobile Online Banking Is Down. Customers are reporting they are getting a 404 error when browsing to online banking.
+- Email Address: karen@osticket.com 
+- Name: Karen Karen
+- Topic: Business Critical Outage
+- Issue Summary: Entire Mobile Online Banking Is Down. Customers are reporting they are getting a 404 error when browsing to online banking.
 
 Then click Create Ticket
 
