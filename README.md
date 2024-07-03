@@ -54,6 +54,88 @@ Then click Create Ticket
 
 ![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/a9207ad1-a284-4ef4-ae90-671a8d0353d7)
 
+Create another ticket with the following:
+
+- Email Address: ken@osticket.com 
+- Name: Ken Ken
+- Topic: Personal Computer Issues
+- Issue Summary: Entire Accounts Dept. Adobe Reader Not Working. Ever since the upgrade last night, nobody in Accounting has been able to use Adobe Reader.
+
+Email Address: karen@osticket.com 
+- Name: Karen Karen
+- Topic: General Enquiry
+- Issue Summary: When are we getting a hardware refresh? Most of my department is having issues with their current tablets, we need this ASAP.  Please provide info.
+
+<br />
+
+Next we need to log in as an agent to resolve the tickets so go to http://localhost/osTicket/scp/login.php and log in with the username jane.doe with the password Password1.  
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/4bd3cbcd-65c4-4f6c-8dbc-19fe1263772c)
+
+We can now see a list of open tickets.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/f1f7d473-3707-495b-9559-7dd3f088600c)
+
+Click on entire mobile banking is down to view it.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/5a990140-89d0-4ed8-8ac0-bca85844cd54)
+
+You can see the priority is normal.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/d65f0d27-c0f0-4daf-b0d6-d5aee8930215)
+
+Click on this to change it to Emergency and enter the note "Business impacting event" and click Update.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/f10a33ed-1c8c-47ef-8fef-f267ff017766)
+
+The ticket is currently unassigned.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/36bc337d-7f48-4d28-a8ed-a99313f9cae2)
+
+Click on it, assign to jane doe and click Assign.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/604b6fc6-62d5-4040-bdf9-fc45d47ab111)
+
+The default SLA isn't appropriate for an emergency so click on it and change it to SEV-A. Add the note "Business impacting, critical incident." Click Update.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/a5264cd2-44b1-4ed8-b3c1-a5513eea727b)
+
+The department is currently set to Support.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/51e7aba5-af05-44e8-9a75-329fc32688e9)
+
+Click on it and change it to System Administrators and enter the note "Sys Admins responsible for mobile banking infrastructure." then click Transfer.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/a3b191f2-215a-4245-a587-c27f4fb691b4)
+
+
+
+
+
+
+
+
+
 
 
 
