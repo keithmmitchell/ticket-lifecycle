@@ -128,6 +128,11 @@ Click on it and change it to System Administrators and enter the note "Sys Admin
 
 ![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/a3b191f2-215a-4245-a587-c27f4fb691b4)
 
+Post a reply "Coordinating with Sys Admin team to bring mobile banking back online." then click Post Reply.
+
+<br />
+
+![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/3109bea2-888f-4d45-9847-b8ba94764df5)
 
 
 
