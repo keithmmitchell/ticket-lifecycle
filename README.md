@@ -147,7 +147,7 @@ We can now see the ticket has disappeared.
 
 ![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/7a33852e-9274-42ab-be99-a85bab0e187b)
 
-Clicking on closed lets us see it there.
+Clicking on Closed lets us see it there.
 
 <br />
 
