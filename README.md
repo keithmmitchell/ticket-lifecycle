@@ -75,7 +75,7 @@ We can now see a list of open tickets.
 
 ![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/f1f7d473-3707-495b-9559-7dd3f088600c)
 
-Click on Entire Mobile Banking is down to view it.
+Click on Entire Mobile Banking Is Down to view it.
 
 <br />
 
