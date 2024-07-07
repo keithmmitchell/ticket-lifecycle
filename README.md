@@ -39,7 +39,7 @@ Enter the following:
 - Topic: Business Critical Outage
 - Issue Summary: Entire Mobile Online Banking Is Down. Customers are reporting they are getting a 404 error when browsing to online banking.
 
-Then click Create Ticket
+Then click Create Ticket.
 
 <br />
 
