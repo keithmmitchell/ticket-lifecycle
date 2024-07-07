@@ -239,7 +239,7 @@ We can now see all tickets have been resolved.
 
 ![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/36d6811c-858c-4739-ada1-896b5eeee588)
 
-This brings us to the end of this lab.
+This brings us to the end of the lab.
 
 
 
