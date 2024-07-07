@@ -99,7 +99,7 @@ The ticket is currently unassigned.
 
 ![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/36bc337d-7f48-4d28-a8ed-a99313f9cae2)
 
-Click on it, assign to jane doe and click Assign.
+Click on it, assign to Jane Doe and click Assign.
 
 <br />
 
