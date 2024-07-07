@@ -205,7 +205,7 @@ Change the SLA to SEV-C.
 
 ![image](https://github.com/keithmmitchell/ticket-lifecycle/assets/174253055/d3d56f01-3e04-4180-a4e7-5e5925ae980f)
 
-Post the reply "Hardware refresh is slated for Q1.  If you like, you and your dept can start testing the new units today. Just send me an email." then mark the ticket as resolved.
+Post the reply "Hardware refresh is slated for Q1.  If you like, you and your dept can start testing the new units today. Just send me an email." Mark the ticket as resolved.
 
 <br />
 
